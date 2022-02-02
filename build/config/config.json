@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xADe81e8C83efF46b561e1f13AA98e7fCe3d570DD",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xade81e8c83eff46b561e1f13aa98e7fce3d570dd",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Have a Nice Day",
+  "SYMBOL": "HAND",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/have-a-nice-day-c7tfmb6mxb",
+  "SHOW_BACKGROUND": true
+}
